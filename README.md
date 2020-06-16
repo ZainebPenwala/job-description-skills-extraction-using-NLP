@@ -1,4 +1,4 @@
-# Keyword Extrcation using TF-IDF
+# Keyword Extraction using TF-IDF
 
 # What is TF-IDF?
 
