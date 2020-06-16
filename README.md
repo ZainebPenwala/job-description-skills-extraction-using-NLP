@@ -1,10 +1,10 @@
-# Keyword Extrcation using TD-IDF
+# Keyword Extrcation using TF-IDF
 
-# What is TD-IDF?
+# What is TF-IDF?
 
 TF IDF is a natural language processing technique useful for the extraction of important keywords within a set of documents or chapters. The acronym stands for “term frequency-inverse document frequency”
 
-# How does TD-IDF work?
+# How does TF-IDF work?
 
 TF: Term Frequency, which measures how frequently a term occurs in a document. Since every document is different in length, it is possible that a term would appear much more times in long documents than shorter ones. Thus, the term frequency is often divided by the document length (aka. the total number of terms in the document) as a way of normalization:
 
